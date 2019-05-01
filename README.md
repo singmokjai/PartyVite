@@ -4,7 +4,7 @@ You’re having a party, and you want to invite all of your friends...but if you
 Use the PartyVite app to send an invitation to all of your friends individually. No group chat. 
 They can respond with a Yes, No or Maybe, and an automatic preset response will be send back to them. 
 
-![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/PartyVite%20screenshot.png =250x250)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/PartyVite%20screenshot.png =250x)
 
 ## Technologies Used
 ```
