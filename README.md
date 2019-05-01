@@ -1,8 +1,10 @@
 # PartyVite
 You’re having a party, and you want to invite all of your friends...but if you start one more group chat, your friends are going to kill you. Enter, PartyVite. 
 
-Use the PartyVite app to send an invitation to all of your friends individually. No group chat. 
+Use the PartyVite app to send an invitation to all of your friends individually. No group chat. ![Trivia pic](https://github.com/singmokjai/uWell/blob/master/public/styles/images/uwell.PNG)
 They can respond with a Yes, No or Maybe, and an automatic preset response will be send back to them. 
+
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/PartyVite%20screenshot.png)
 
 ## Technologies Used
 ```
