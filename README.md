@@ -5,6 +5,11 @@ Use the PartyVite app to send an invitation to all of your friends individually.
 They can respond with a Yes, No or Maybe, and an automatic preset response will be sent back to them. 
 
 ![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/PartyVite%20screenshot.png)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/pvite2.png)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/pvite3.png)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/pvite4.png)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/pvite5.png)
+![PartyVite login](https://github.com/singmokjai/PartyVite/blob/master/PartyVite/pvite6.png)
 
 ## Technologies Used
 ```
